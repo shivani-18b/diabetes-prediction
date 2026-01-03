@@ -22,9 +22,9 @@ This is a Machine Learning project developed as part of my learning in AI/ML dur
 6. Evaluate the model using accuracy and confusion matrix (Model Evaluation)
 7. Predict diabetes from user input
 
-##Technologies Used
+##Technologies Used:
 -Python
--Pandas
+-Panda
 -NumPy
 -Scikit-learn
 
@@ -32,7 +32,7 @@ This is a Machine Learning project developed as part of my learning in AI/ML dur
 -Accuracy Score
 -Confusion Matrix
 
-##Sample Usage
+##Result
 -The user is prompted to enter patient details
 -The model predicts whether the patient is DIABETIC or NOT DIABETIC.
 
